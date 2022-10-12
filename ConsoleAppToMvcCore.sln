@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppToMvcCore", "ConsoleAppToMvcCore.csproj", "{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCore8amBatch", "..\MVCCore8amBatch\MVCCore8amBatch.csproj", "{88C46B7E-C84C-4F6D-B8A3-313116365501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653EA3DC-0D39-4A5F-9D67-CB68BD78651F}
+	EndGlobalSection
+EndGlobal
