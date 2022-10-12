@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppToMvcCore", "ConsoleAppToMvcCore.csproj", "{AE68DEEA-12AD-4C1D-9FFC-E9576FAF9656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCore8amBatch", "..\MVCCore8amBatch\MVCCore8amBatch.csproj", "{88C46B7E-C84C-4F6D-B8A3-313116365501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCCore8amBatch", "..\MVCCore8amBatch\MVCCore8amBatch.csproj", "{88C46B7E-C84C-4F6D-B8A3-313116365501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperExample8amBatch", "..\DapperExample8amBatch\DapperExample8amBatch.csproj", "{DD5CEA53-6654-4047-A501-444E1600F123}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88C46B7E-C84C-4F6D-B8A3-313116365501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5CEA53-6654-4047-A501-444E1600F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5CEA53-6654-4047-A501-444E1600F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5CEA53-6654-4047-A501-444E1600F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5CEA53-6654-4047-A501-444E1600F123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
